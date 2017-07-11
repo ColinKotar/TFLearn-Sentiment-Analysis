@@ -1,4 +1,4 @@
-# TFLearn-Sentiment-Analysis
+# Sentiment Analysis
 Sentiment analysis using TFLearn (a high-level library built on top of TensorFlow)
 
 ## My Neural Network Model
